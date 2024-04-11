@@ -1,4 +1,4 @@
-**[中文](README.md)|[English](README_en.md)**
+**中文|[English](README_en.md)**
 
 ## 上市企业人员简历数据集
 
